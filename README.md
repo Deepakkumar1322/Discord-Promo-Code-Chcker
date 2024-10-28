@@ -2,20 +2,6 @@
 
 Welcome to the **Discord Promo Code Checker**! This project allows you to validate a list of Discord promotional links, checking if they are expired or still valid. The tool is efficient, scalable, and capable of handling rate limits, while tracking the status of each checked link and providing detailed logs in a color-coded console output.
 
-## Table of Contents
-
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Logging](#logging)
-- [Output Files](#output-files)
-- [Project Structure](#project-structure)
-- [Dependencies](#dependencies)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
 ## Features
 
 - **Multi-Token Support**: Rotate between multiple tokens to avoid rate limits.
